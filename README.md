@@ -1,8 +1,10 @@
 # affordablehousing2
 
-To start we are going to get our hands on relevant data by cloning the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and adapting it to the Durham Area.
+To start we are going to get our hands on relevant data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploy it into a more manageable tech framework for the Durham Area.
 
-* Github Repo: [/affordablehousing](https://github.com/codefordurham/affordablehousing)
+Using Flask Web Framework (Python), d3, and Bootstrap (HTML/css)
+
+* Github Repo: [/affordablehousing2](https://github.com/codefordurham/affordablehousing2)
 * Google Drive: [link](https://drive.google.com/open?id=0B-grTxZ2aMjEbThCNnNPSWU5NTA)
 * Email Listerve: [cfnc housing](https://groups.google.com/forum/#!forum/cfnc_housing)
 * Catalog of Potential Visualizations: [Google Sheet](https://docs.google.com/spreadsheets/d/1yjvVzBikWil_PxPg786eb2ON4RgsG23jjXjF4BBDxEA/edit?usp=sharing) - Feel free to add an idea!
