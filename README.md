@@ -1,6 +1,6 @@
-# affordablehousing2
+# Affordable Housing (2)
 
-To start we are going to get our hands on relevant data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploy it into a more manageable tech framework for the Durham Area.
+This is a second take on our [affordable housing project](https://github.com/codefordurham/affordablehousing) on the tech side. We are going to get our hands on relevant data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploy it into a more manageable tech framework for the Durham Area.
 
 Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
 
@@ -13,7 +13,7 @@ For quick overview (if new to project), check out this Dec 10 [affordable housin
 
 This is an emerging project born out of this initial [Project Scope Brainstorm](https://docs.google.com/document/d/1bfjVL8-oBa3JkihRLWpDK6rIZHQ48Gc3Zxy5rM1ch4A/edit).
 
-Brief:
+Project Brief:
 
 Sustainable economic development is difficult to get right. Durham is growing fast and may be missing the window to get the right policies and organizations in place to ensure it stays a place where people of all socio-economic backgrounds can work and live. Durham already lacks 14,500 affordable rental units [according to DurhamCares](http://www.durhamcares.org/portfolio/affordable-housing-infographic). We don't want to live in a place with the same dramatic tension that San Francisco has experienced between the innovation/tech economy and those not in that sector. We want to be the model of sustainable urban growth in the digital age. We need tools to help guide the discussion.
 
