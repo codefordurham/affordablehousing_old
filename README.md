@@ -2,7 +2,7 @@
 
 To start we are going to get our hands on relevant data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploy it into a more manageable tech framework for the Durham Area.
 
-Using Flask Web Framework (Python), d3, and Bootstrap (HTML/css)
+Using [Flask Web Framework]{https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
 
 * Github Repo: [/affordablehousing2](https://github.com/codefordurham/affordablehousing2)
 * Google Drive: [link](https://drive.google.com/open?id=0B-grTxZ2aMjEbThCNnNPSWU5NTA)
