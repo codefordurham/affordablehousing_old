@@ -6,17 +6,21 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+@app.route('/graphs')
+def graphs():
+    return render_template('graphs.html')
+
+@app.route('/maps')
+def maps():
+    return render_template('maps.html')
+
+@app.route('/simplemap')
+def simplemap():
+    return render_template('simplemap.html')
+
 @app.route('/about')
 def about():
     return render_template('about.html')
-
-@app.route('/graphs')
-def graph():
-    return render_template('graphs.html')
-
-@app.route('/contact')
-def contact():
-    return render_template('contact.html')
 
 if __name__ == "__main__":
     app.run()

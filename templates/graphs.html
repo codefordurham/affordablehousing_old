@@ -14,7 +14,6 @@
     <!-- Bootstrap Core CSS -->
     <link rel=stylesheet type=text/css href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel=stylesheet type=text/css href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css">
-
     <!-- Custom CSS -->
     <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/business-casual.css') }}">
 
@@ -57,10 +56,13 @@
                         <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="about">About</a>
+                        <a href="graphs">Graphs</a>
                     </li>
                     <li>
-                        <a href="graphs">Graphs</a>
+                        <a href="maps">Maps</a>
+                    </li>
+                    <li>
+                        <a href="about">About</a>
                     </li>
                 </ul>
             </div>
@@ -106,7 +108,7 @@
                     <h2 class="intro-text text-center">Poverty Status Demographics</h2>
                     <hr>
                 </div>
-                <div class="col-md-6">This data is coming from a live json files that is hosted at <a href="https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A/">https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A</a> and is rendered by the javacript file <code>/static/poverty-status-demographics.js</code>.<br/><br/>Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
+                <div class="col-md-6">This data is coming from a live json files that is hosted at <a href="https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A/">https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A/</a> and is rendered by the javacript file <code>/static/poverty-status-demographics.js</code>.<br/><br/>Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
                 <div class="col-md-6">
                     <div id="chart3"></div>
                 </div>
