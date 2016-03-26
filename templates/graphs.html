@@ -75,12 +75,40 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center"> Population and Housing Units By Year</h2>
+                    <h2 class="intro-text text-center">Population and Housing Units By Year</h2>
                     <hr>
                 </div>
-                <div class="col-md-6">Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
+                <div class="col-md-6">This data is coming from a csv that is posted in <code>/static/data/population-and-housing-units-by-year.csv</code> and is rendered by the javacript file <code>/static/graph-config/population-and-housing-units-by-year.js</code>.<br/><br/>Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
                 <div class="col-md-6">
-                    <div id="chart"></div>
+                    <div id="chart1"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Library DVD Collection Usage</h2>
+                    <hr>
+                </div>
+                <div class="col-md-6">This data is coming from a live json files that is hosted at <a href="https://opendurham.nc.gov/api/records/1.0/search/?dataset=library-dvd-collection-usage">https://opendurham.nc.gov/api/records/1.0/search/?dataset=library-dvd-collection-usage</a> and is rendered by the javacript file <code>/static/graph-config/library-dvd-collection-usage.js</code>.<br/><br/>Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
+                <div class="col-md-6">
+                    <div id="chart2"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Poverty Status Demographics</h2>
+                    <hr>
+                </div>
+                <div class="col-md-6">This data is coming from a live json files that is hosted at <a href="https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A/">https://opendurham.nc.gov/api/records/1.0/search/?dataset=poverty-status-in-families&facet=label&refine.label=Total+of+families+living+in+poverty%3A</a> and is rendered by the javacript file <code>/static/poverty-status-demographics.js</code>.<br/><br/>Vestibulum ligula est, vehicula sed semper quis, cursus vitae odio. Maecenas condimentum, arcu in placerat placerat, lorem orci ultrices nisl, non ullamcorper neque est non ipsum. Quisque eleifend ipsum vel arcu efficitur consectetur. Etiam sollicitudin est et venenatis auctor. Maecenas id posuere massa. Donec venenatis efficitur ligula at ultrices. Proin tincidunt convallis quam, et accumsan sapien. In scelerisque tortor rutrum, placerat elit non, fringilla metus.</div>
+                <div class="col-md-6">
+                    <div id="chart3"></div>
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -108,6 +136,8 @@
     <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.js"></script>
     <script src="{{ url_for('static', filename='graph-config/population-and-housing-units-by-year.js') }}"></script>
+    <script src="{{ url_for('static', filename='graph-config/library-dvd-collection-usage.js') }}"></script>
+    <script src="{{ url_for('static', filename='graph-config/poverty-status-demographics.js') }}"></script>
 
 </body>
 
