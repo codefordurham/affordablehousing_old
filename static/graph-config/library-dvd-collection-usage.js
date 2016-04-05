@@ -21,7 +21,7 @@ var c3Json = d3.json("https://opendurham.nc.gov/api/records/1.0/search/?dataset=
                                 data: {
                                     x: 'month',
                                     rows: sheet,
-                                    type: 'bar'
+                                    type: 'line'
                                 },
                                 axis: {
                                     x: {
@@ -32,7 +32,12 @@ var c3Json = d3.json("https://opendurham.nc.gov/api/records/1.0/search/?dataset=
                                     }
                                 },
                                 color: {
-                                    pattern: ['#003366','#ff0033','#ffcc33']
+                                    pattern: ['rgba(245, 205, 86, 0.95)',
+                                              'rgba(206, 58, 69, 0.93)',
+                                              'rgba(4, 90, 139, 0.93)',
+                                              'rgba(166, 86, 245, 0.95)',
+                                              'rgba(68, 206, 58, 0.93)',
+                                              'rgba(139, 49, 4, 0.93)']
                                 }
                             });
                        });
