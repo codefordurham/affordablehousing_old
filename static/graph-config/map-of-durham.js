@@ -7,5 +7,12 @@ L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(mymap);
 
 $.get('/static/data/map-of-durham.geojson',function(data) {
-    L.geoJson($.parseJSON(data)).addTo(mymap);
+        var myStyle = {
+            "color": "#003366",
+            "weight": 1,
+            "opacity": 1.00,
+            "fillColor": '#ff0033',
+            "fillOpacity": 0.05
+        };
+        L.geoJson($.parseJSON(data),{style: myStyle}).addTo(mymap);
 });

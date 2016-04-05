@@ -14,10 +14,6 @@ def graphs():
 def maps():
     return render_template('maps.html')
 
-@app.route('/simplemap')
-def simplemap():
-    return render_template('simplemap.html')
-
 @app.route('/about')
 def about():
     return render_template('about.html')
