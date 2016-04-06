@@ -1,6 +1,6 @@
-# Affordable Housing (2)
+# Affordable Housing
 
-This is a second take on our [affordable housing project](https://github.com/codefordurham/affordablehousing) on the tech side. We are going to get our hands on relevant data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploy it into a more manageable tech framework for the Durham Area.
+This is a second take on our [affordable housing project](https://github.com/codefordurham/affordablehousing_sf) on the tech side. We are getting our hands into Durham's relevant housing data by cloning the concept of the [DataSF Housing Hub](http://housing.datasf.org/data-browser/) and redeploying it into a more manageable tech framework for the Durham Area. We don't currently have a web hosted version but should remedy that soon.
 
 Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
 
