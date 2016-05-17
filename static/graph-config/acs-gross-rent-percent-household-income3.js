@@ -3,7 +3,7 @@ var chart = c3.generate({
     data: {
         x: 'Percentage',
         url: '/static/data/acs-gross-rent-percent-household-income3.csv',
-        type: 'line'
+        type: 'bar'
     },
     color: {
         pattern: ['rgba(245, 205, 86, 0.95)',
