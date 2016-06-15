@@ -1,5 +1,5 @@
 <!-- -->
-[![Stories in Ready](https://badge.waffle.io/codefordurham/affordablehousing.png?label=Ready)](https://waffle.io/codefordurham/school-navigator)
+[![Stories in Ready](https://badge.waffle.io/codefordurham/affordablehousing.png?label=Ready)](https://waffle.io/codefordurham/affordablehousing)
 
 # Affordable Housing
 
