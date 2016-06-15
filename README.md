@@ -8,10 +8,18 @@ Our vision is to support the Durham community by aggregating and organizing hous
 For quick overview (if new to project), check out this Dec 10 [affordable housing report](http://www.durhamnc.gov/agendas_new/2015/cws20151221/10833_PRESENTATION_ENTERPRISE_PRESENTATION_381541_671480.PDF) provided by consultant Karen Lado to the City of Durham
 
 ##How you can help...
-We are looking for **UX / UI Designers / Front End developers** to help us with the site! As you can prob we've taken a template and are just running with the data/backend side. 
+We are looking for UX / UI Designers / Front End developers to help us with the site! As you can probably see we've taken a template and are just running with the data/backend side.
+* [Non-Tech help](https://waffle.io/codefordurham/affordablehousing?label=Non-Tech)
+* [Front end](https://waffle.io/codefordurham/affordablehousing?label=Front%20End)
+* [UX/Designers](https://waffle.io/codefordurham/affordablehousing?label=UX)
+* [Back end](https://waffle.io/codefordurham/affordablehousing?label=Back%20End)
+* [Data Wranglers](https://waffle.io/codefordurham/affordablehousing?label=Data%20Wrangling)
 
+##Tech Overview
 Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
 
+##Project Links
+* [Website prototype](http://affordablehousing.pythonanywhere.com/)
 * Github Repo: [/affordablehousing](https://github.com/codefordurham/affordablehousing)
 * Google Drive: [link](https://drive.google.com/open?id=0B-grTxZ2aMjEbThCNnNPSWU5NTA)
 * Email Listerve: [cfnc housing](https://groups.google.com/forum/#!forum/cfnc_housing)
