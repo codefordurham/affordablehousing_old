@@ -10,10 +10,10 @@ For quick overview (if new to project), check out this Dec 10 [affordable housin
 ##How you can help...
 We are looking for UX / UI Designers / Front End developers to help us with the site! As you can probably see we've taken a template and are just running with the data/backend side.
 * [Non-Tech help](https://waffle.io/codefordurham/affordablehousing?label=Non-Tech)
-* [Front end](https://waffle.io/codefordurham/affordablehousing?label=Front%20End)
+* [Front end](https://waffle.io/codefordurham/affordablehousing?label=Front-End)
 * [UX/Designers](https://waffle.io/codefordurham/affordablehousing?label=UX)
-* [Back end](https://waffle.io/codefordurham/affordablehousing?label=Back%20End)
-* [Data Wranglers](https://waffle.io/codefordurham/affordablehousing?label=Data%20Wrangling)
+* [Back end](https://waffle.io/codefordurham/affordablehousing?label=Back-End)
+* [Data Wranglers](https://waffle.io/codefordurham/affordablehousing?label=Data-Wrangling)
 
 ##Tech Overview
 Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
