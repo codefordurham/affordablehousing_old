@@ -15,15 +15,35 @@ For quick overview (if new to project), check out this Dec 10 [affordable housin
 
 This is an emerging project born out of this initial [Project Scope Brainstorm](https://docs.google.com/document/d/1bfjVL8-oBa3JkihRLWpDK6rIZHQ48Gc3Zxy5rM1ch4A/edit).
 
-Project Brief:
+## Project Brief:
 
 Sustainable economic development is difficult to get right. Durham is growing fast and may be missing the window to get the right policies and organizations in place to ensure it stays a place where people of all socio-economic backgrounds can work and live. Durham already lacks 14,500 affordable rental units [according to DurhamCares](http://www.durhamcares.org/portfolio/affordable-housing-infographic). We don't want to live in a place with the same dramatic tension that San Francisco has experienced between the innovation/tech economy and those not in that sector. We want to be the model of sustainable urban growth in the digital age. We need tools to help guide the discussion.
 
 Lack of public awareness around changes in affordable housing options in Durham and ability to track local inventories of rent within affordable ranges block by block as Durham grows is one major problem
 
-Other Problems:
+## Other Problems:
 
 * How many rental units are available for people earning at 40-60% AMI?
 * Startups & low-wealth communities are at-risk of â€œgentrificationâ€ 
 * Ensure housing inventory is aligned with workforce development efforts
 * Ensure affordable housing inventory is aligned with public transportation planning
+
+## Current Plan / Next Steps
+* Identify other community efforts (community mapping, advocacy, community surveys)
+** Find a good mechanism to engage community to identify priority pain points needs
+* Choose Housing sub-theme / focus area for a Housing Data Hack; so far it seems the common goals seem to be: 
+* Get a stakeholder thought leader meeting to identify optimal coordination & sequencing of events
+** Human-Centered design brainstorming and prioritization exercises (do it during a 
+** Data hacking session
+* Create outreach plan
+* Send Save the Date TBD (Fall)
+
+## Potential Community Stakeholders
+* Durham, Neighborhood Indicators Project: John Killeen, Laura Beidinger
+* Neighborhood representatives?
+* Austin Brown- Boondock Cities (Community Mapping)
+* Volunters from Coalition for Housing & Transit
+* US Census - opportunity to leverage their pilot partnerships http://opportunity.census.gov/
+* Durham, Community Development: Reginald Johnson
+* Mayor's Housing Task Force - James Svara <svarajh@gmail.com>
+* Community Survey ?
