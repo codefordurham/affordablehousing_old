@@ -18,6 +18,10 @@ We are looking for UX / UI Designers / Front End developers to help us with the 
 ##Tech Overview
 Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and Bootstrap (HTML/css), OpenStreetMap
 
+#### Resources
+
+ * [Setting up your local development environment (OS X)](https://github.com/codefordurham/affordablehousing/wiki/Setting-up-your-local-development-environment-(OS-X))
+
 ##Project Links
 * [Website prototype](http://affordablehousing.pythonanywhere.com/)
 * Github Repo: [/affordablehousing](https://github.com/codefordurham/affordablehousing)
