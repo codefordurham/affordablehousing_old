@@ -28,6 +28,7 @@ Using [Flask Web Framework](https://www.fullstackpython.com/flask.html), d3, and
 * Google Drive: [link](https://drive.google.com/open?id=0B-grTxZ2aMjEbThCNnNPSWU5NTA)
 * Email Listerve: [cfnc housing](https://groups.google.com/forum/#!forum/cfnc_housing)
 * Catalog of Potential Visualizations: [Google Sheet](https://docs.google.com/spreadsheets/d/1yjvVzBikWil_PxPg786eb2ON4RgsG23jjXjF4BBDxEA/edit?usp=sharing) - Feel free to add an idea!
+* [Slack Channel](https://cfnc.slack.com/messages/affordablehousing/details/) - [Request an invite here](https://docs.google.com/forms/d/1JNvo0PGSyypbJA8kZyc1mhPSyGrxqaiB805lGvO2PAY/viewform)
 
 This is an emerging project born out of this initial [Project Scope Brainstorm](https://docs.google.com/document/d/1bfjVL8-oBa3JkihRLWpDK6rIZHQ48Gc3Zxy5rM1ch4A/edit).
 
