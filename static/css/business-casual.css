@@ -202,3 +202,28 @@ footer p {
         clear: both;
     }
 }
+
+
+.color-primary-0 { color: #986246 }	/* Main Primary color */
+.color-primary-1 { color: #E3B7A0 }
+.color-primary-2 { color: #BA8468 }
+.color-primary-3 { color: #7D4428 }
+.color-primary-4 { color: #59280F }
+
+.color-secondary-1-0 { color: #987746 }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #E3C8A0 }
+.color-secondary-1-2 { color: #BA9968 }
+.color-secondary-1-3 { color: #7D5B28 }
+.color-secondary-1-4 { color: #593B0F }
+
+.color-secondary-2-0 { color: #324A63 }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #6C7F94 }
+.color-secondary-2-2 { color: #486079 }
+.color-secondary-2-3 { color: #1E3751 }
+.color-secondary-2-4 { color: #0D233A }
+
+.color-complement-0 { color: #2F6553 }	/* Main Complement color */
+.color-complement-1 { color: #6B9788 }
+.color-complement-2 { color: #457B6A }
+.color-complement-3 { color: #1B5340 }
+.color-complement-4 { color: #0A3B2B }
