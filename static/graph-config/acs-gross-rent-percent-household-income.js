@@ -1,5 +1,5 @@
 var chart = c3.generate({
-    bindto: '#chart4',
+    bindto: '#chart2',
     data: {
         x: 'Year',
         url: '/static/data/acs-gross-rent-percent-household-income.csv',

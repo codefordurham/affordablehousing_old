@@ -36,6 +36,15 @@ hr {
     border-color: #999999;
 }
 
+.left-nav ul {
+    padding-left: 0px;
+}
+
+.left-nav li {
+    list-style: none;
+}
+
+
 .brand,
 .address-bar {
     display: none;
